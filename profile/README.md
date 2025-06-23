@@ -1,4 +1,3 @@
-# .github
-HODLUP, Corp.
+# HODLUP, Corp.
 
 investors [@] hodlup [dot] co
